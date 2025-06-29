@@ -1,0 +1,1 @@
+# Estudos_Escola_da_Nuvem_AWS-IA

@@ -36,7 +36,6 @@ calcula_idade()
 
 def verifica_palindromo():
   frase = input("Digite uma palavra ou frase: ").lower()
-  # Remove espaços, pontuação e acentos simples
   frase_limpa = ''.join(char for char in frase if char.isalnum())
   if frase_limpa == frase_limpa[::-1]:
     print("Sim")
